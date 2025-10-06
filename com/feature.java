@@ -19,4 +19,5 @@ public class FeatureTracker {
             e.printStackTrace();
         }
     }
+    public void sell() {}
 }
